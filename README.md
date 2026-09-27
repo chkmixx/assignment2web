@@ -25,3 +25,11 @@ I made a simple page layout using CSS Grid. It has a header, sidebar, main conte
 task 3:
 <img width="1772" height="955" alt="image" src="https://github.com/user-attachments/assets/4c9bfab2-013b-4df4-8cda-11eda81e7ce7" />
 I made a gallery with 9 kpop photos because I wanted to add something I like. I used CSS Grid to arrange them in 3 rows and 3 columns. I also added gaps between the photos and a hover effect with the names.
+
+
+#Part 3.Task 4:
+<img width="1752" height="818" alt="image" src="https://github.com/user-attachments/assets/ceb810a1-8f42-4728-8273-44f169cc07d6" />
+
+I made a simple portfolio page about my studies and activities at AITU. I added some projects I worked on during my studies and mentioned my volunteer experience at the university. I also included the “Әйел теңдігі” event that I helped organize and conduct.
+
+In this assignment, I practiced using Flexbox and Grid. I learned how to create layouts, cards, galleries and a simple portfolio page using CSS.
